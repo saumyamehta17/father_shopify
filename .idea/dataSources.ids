@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails father_shopify: development" uuid="83ca6c26-78b1-42d1-ba4d-9b169933d6f0">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails father_shopify: test" uuid="688b2331-b0f6-4630-abcc-6aa4c3de4bc8">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails father_shopify: production" uuid="1da10f85-ca5e-4ae0-a200-c0b37ce0e278">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
